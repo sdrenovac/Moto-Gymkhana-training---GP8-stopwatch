@@ -57,7 +57,17 @@ Alternatively, with a compatible JDK and Android SDK configured, run:
 
 ## Important release note
 
-This repository contains the updated responsive source code. A newly compiled APK is not included yet. Do not treat an older GP8 Stopwatch APK as a build of this source revision.
+The currently downloadable APK is **GP8 Stopwatch v1.0 (legacy UI)**. It is the tested, installable version with the original fixed portrait interface. It does **not** include the responsive interface contained in the current source code.
+
+### Download version 1.0
+
+[Download GP8 Stopwatch v1.0 APK](releases/GP8-Stoperica-v1.0-legacy-ui.apk)
+
+SHA-256: `cfd612afd166759b19e6802061e0315ba55d6ae7f4dc3afe6f31dab730296092`
+
+Android may ask you to allow installation from the browser or file manager used to open the APK. After installation, that permission can be disabled again.
+
+A newly compiled APK with the responsive UI is not included yet. Do not mistake version 1.0 for a build of the updated responsive source revision.
 
 ## Documentation
 
